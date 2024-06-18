@@ -66,14 +66,11 @@ const localAudioFilePath = 'path/to/local/audio/sample.wav';
 evaluateLocalAudioFile(localAudioFilePath);
 ```
 
-### License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ### Contributors
 - Add your name here if contributing to this project.
 
 ### Contact
-For questions or issues, please contact [your-email@example.com](mailto:your-email@example.com).
+For questions or issues, please contact [your-email@example.com](mailto:your-vedxnt2912@gmail.com).
 
 ---
 
